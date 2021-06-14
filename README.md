@@ -1,11 +1,12 @@
- <div align=center> 
- <hr>
+<div align=center> 
  
- ## [Musaeum](https://www.musaeum.university)
- by
+[<img src='https://github.com/felipeboffnunes/felipeboffnunes/blob/main/logo_musaeum_.png' width=180/>](https://www.musaeum.university)
+
+BY
  
+<img src='https://github.com/felipeboffnunes/felipeboffnunes/blob/main/hero-pyrrhic.gif' width=180/>
  
- <img src='https://github.com/felipeboffnunes/felipeboffnunes/blob/main/pyrrhic.gif' width=1200/>
+PYRRHIC BUDDHA
 </div>
 
 
