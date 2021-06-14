@@ -1,7 +1,9 @@
 <table border="0">
 <tr>
 <td>
- <kbd><img src='https://github.com/felipeboffnunes/felipeboffnunes/blob/main/right.gif' width=1000/></kbd>
+ 
+ [<img src='https://github.com/felipeboffnunes/felipeboffnunes/blob/main/right.gif' width=1000/>](https://www.musaeum.university)
+ 
 </td>
 <td>
 <div align=center> 
@@ -11,14 +13,16 @@
 
 BY
  
-<kbd><img src='https://github.com/felipeboffnunes/felipeboffnunes/blob/main/hero-pyrrhic.gif' width=300/></kbd>
+[<img src='https://github.com/felipeboffnunes/felipeboffnunes/blob/main/hero-pyrrhic.gif' width=300/>](https://www.musaeum.university)
  
 PYRRHIC BUDDHA
  <hr>
 </div>
 </td>
 <td>
- <kbd><img src='https://github.com/felipeboffnunes/felipeboffnunes/blob/main/left.gif' width=1000/></kbd>
+
+  [<img src='https://github.com/felipeboffnunes/felipeboffnunes/blob/main/left.gif' width=1000/>](https://www.musaeum.university)
+
 </td>
 </tr>
 </table>
