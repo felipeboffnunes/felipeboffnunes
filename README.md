@@ -7,7 +7,7 @@
 </td>
 <td>
 <div align=center> 
-<hr>
+
  
 [<img src='https://github.com/felipeboffnunes/felipeboffnunes/blob/main/logo_musaeum__.png' width=300/>](https://www.musaeum.university)
 
@@ -16,7 +16,7 @@ BY
 [<img src='https://github.com/felipeboffnunes/felipeboffnunes/blob/main/hero-pyrrhic.gif' width=300/>](https://www.musaeum.university)
  
 PYRRHIC BUDDHA
- <hr>
+
 </div>
 </td>
 <td>
