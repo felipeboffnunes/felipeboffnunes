@@ -20,11 +20,11 @@ Arson Enterprises
 <tr>
 <td align="center">
   
-[<img src='https://github.com/felipeboffnunes/felipeboffnunes/blob/main/hero-pyrrhic.gif' width="300"/>](https://www.musaeum.technology)
+[<img src='https://github.com/felipeboffnunes/felipeboffnunes/blob/main/hero-pyrrhic.gif' width="250"/>](https://www.musaeum.technology)
 </td>
 <td align="center">
   
-[<img src='https://github.com/felipeboffnunes/felipeboffnunes/blob/main/arson.gif' width="300"/>](https://www.arson.enterprises)
+[<img src='https://github.com/felipeboffnunes/felipeboffnunes/blob/main/arson.gif' width="250"/>](https://www.arson.enterprises)
 </td>
 </tr>
 </table>
