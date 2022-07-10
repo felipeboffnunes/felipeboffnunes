@@ -1,7 +1,7 @@
 <table>
 <tr>
 <th align="center">
-<img width="400" height="1">
+<img width="390" height="1">
 <p> 
 <small>
 Musaeum Technology
@@ -9,7 +9,7 @@ Musaeum Technology
 </p>
 </th>
 <th align="center">
-<img width="400" height="1">
+<img width="390" height="1">
 <p> 
 <small>
 Arson Enterprises
